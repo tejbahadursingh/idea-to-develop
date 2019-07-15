@@ -17,3 +17,6 @@ trainning video link on one place.
 Wordpress plugin for common payment gateway,
 
 API token authentication
+Reporting tool
+Any sample application in react/angular/vue/express
+DevOps pipeline from development to deployment
